@@ -3,7 +3,7 @@ getgenv().rei = {
     ["Key"] = "rei_a562f50d886966b7c72b574b", -- Put Ur Key
     ["Method"] = "Impel", 
     
-    ["PrivateCode"] = "NpfQh0PmSZ",
+    ["PrivateCode"] = "ODmcKl4ZQl",
     ["Vote"] = "Normal", -- Normal / Hard
     ["Nightmare+"] = true, -- Auto Nightmare+
 
