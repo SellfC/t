@@ -1,29 +1,27 @@
 local Player = game:GetService("Players").LocalPlayer
-if Player.Name == "Wobblebread6577" then
+if Player.Name == "j9i9k4s7d4q3t0" then
 getgenv().PrivateServerCode = "SQlY2VzjTi"
-elseif Player.Name == "kultnogve" then
+elseif Player.Name == "u1o0y7j7r5w9j1" then
 getgenv().PrivateServerCode = "ODmcKl4ZQl" 
-elseif Player.Name == "esplorahotelxd" then
-getgenv().PrivateServerCode = "Q1u9b5O3M0" 
-elseif Player.Name == "faloni5v" then
+elseif Player.Name == "y5e5t9b6p5t2e3" then
 getgenv().PrivateServerCode = "HAY3bKUdQ6" 
-elseif Player.Name == "2zmbgm" then
+elseif Player.Name == "v0g2h8r9j8o2o1" then
 getgenv().PrivateServerCode = "a7cZoyGucM" 
-elseif Player.Name == "Krancho5637" then
+elseif Player.Name == "y6j5g5x2i3j2g5" then
 getgenv().PrivateServerCode = "0YBKc0vxSq" 
-elseif Player.Name == "Hronba3672" then
+elseif Player.Name == "i3w0r7l3x8a4l8" then
 getgenv().PrivateServerCode = "FPARuJreaK" 
-elseif Player.Name == "Shadofu0814" then
+elseif Player.Name == "d9i0r7z2d5y5w2" then
 getgenv().PrivateServerCode = "E20kF5imgP" 
-elseif Player.Name == "Rexco0773" then
+elseif Player.Name == "q0d0z2z3o4r8f6" then
 getgenv().PrivateServerCode = "FvJuPCILTU" 
-elseif Player.Name == "Crutfu4619" then
+elseif Player.Name == "k5g2v2g3k3i6r5" then
 getgenv().PrivateServerCode = "DBl15XgrtF" 
-elseif Player.Name == "Gracflu1044" then
+elseif Player.Name == "o9i3w3y9f1n4g3" then
 getgenv().PrivateServerCode = "lIxyvt3OzY" 
-elseif Player.Name == "Echobyte1546" then
+elseif Player.Name == "x4r6w1o8c9r3i0" then
 getgenv().PrivateServerCode = "EPn6eNn90g" 
-elseif Player.Name == "openteacherbd" then
+elseif Player.Name == "n5l7a3g9p2g1b6" then
 getgenv().PrivateServerCode = "QdzU2NELxo"
 end
 getgenv().TweenSpeed = 500 -- max 500
@@ -31,7 +29,7 @@ getgenv().GunStats = true -- Auto Gun Stats
 
 getgenv().AutoGetHaki = true  -- Auto Get Haki
 getgenv().AutoGetGeppo = true -- Auto Get Geppo
-getgenv().AutoGetWorldScroll = false -- Auto Get World Scroll
+getgenv().AutoGetWorldScroll = true -- Auto Get World Scroll
 getgenv().AutoGetTradableItems = true -- Auto Get Tradable Items
 getgenv().AutoGetStaminaDrinks = true -- Auto Get Stamina Drinks
 getgenv().AutoGoToSecondSea = true -- Auto Go To Second Sea
@@ -67,7 +65,7 @@ getgenv().SecondSea = "Impel Base" -- or other second sea island
 getgenv().SetSpawnSecondSea = true -- Auto Set Spawn on Second Sea Island (SET TRUE AUTO GO TO SECOND SEA)
 
  -- Put Your Private Server Code
-getgenv().WebhookURL = "Webhook" -- Put Your Webhook
+getgenv().WebhookURL = "https://discord.com/api/webhooks/1137986267808796723/X_RT7ofzUep_66__F3n_wBzkJJkwjQ0GvP4GFTXX2ovGzxGbD0w2q7RMhe5BFUGZOxsa" -- Put Your Webhook
 
 getgenv().AutoFastMode = true -- Auto Fast Mode
 getgenv().Disable3DRender = false -- Auto Disable 3DRender
