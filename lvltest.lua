@@ -3,7 +3,7 @@ if Player.Name == "Wobblebread6577" then
 getgenv().PrivateServerCode = "SQlY2VzjTi"
 elseif Player.Name == "kultnogve" then
 getgenv().PrivateServerCode = "ODmcKl4ZQl" 
-elseif Player.Name == "esplorahoteld" then
+elseif Player.Name == "esplorahotelxd" then
 getgenv().PrivateServerCode = "Q1u9b5O3M0" 
 elseif Player.Name == "faloni5v" then
 getgenv().PrivateServerCode = "HAY3bKUdQ6" 
