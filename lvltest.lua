@@ -29,7 +29,7 @@ getgenv().GunStats = true -- Auto Gun Stats
 
 getgenv().AutoGetHaki = true  -- Auto Get Haki
 getgenv().AutoGetGeppo = true -- Auto Get Geppo
-getgenv().AutoGetWorldScroll = false -- Auto Get World Scroll
+getgenv().AutoGetWorldScroll = true -- Auto Get World Scroll
 getgenv().AutoGetTradableItems = true -- Auto Get Tradable Items
 getgenv().AutoGetStaminaDrinks = true -- Auto Get Stamina Drinks
 getgenv().AutoGoToSecondSea = true -- Auto Go To Second Sea
